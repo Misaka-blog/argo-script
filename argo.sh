@@ -181,7 +181,7 @@ menu() {
     checkStatus
     clear
     echo "#############################################################"
-    echo -e "#           ${RED}CloudFlare Argo Tunnel 一键配置脚本${PLAIN}             #"
+    echo -e "#           ${RED}CloudFlare Argo Tunnel 一键管理脚本${PLAIN}             #"
     echo -e "# ${GREEN}作者${PLAIN}: MisakaNo の 小破站                                  #"
     echo -e "# ${GREEN}博客${PLAIN}: https://blog.misaka.rest                            #"
     echo -e "# ${GREEN}GitLab${PLAIN}: https://gitlab.com/misakablog                     #"
