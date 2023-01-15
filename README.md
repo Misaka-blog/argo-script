@@ -1,18 +1,16 @@
-# CloudFlare Argo Tunnel 一键管理脚本
+# argo-script
+
+CloudFlare Argo Tunnel 一键管理脚本
 
 ```shell
 wget -N --no-check-certificate https://raw.githubusercontent.com/blog-misaka/argo-script/main/argo.sh && bash argo.sh
 ```
 
-## 赞助我们
+## 赞助
 
-爱发电：https://afdian.net/a/misaka-blog
+爱发电：https://afdian.net/a/Misaka-blog
 
-## 频道及交流群
-
-[Telegram 频道](https://t.me/misakablogchannel)
-
-[Telegram 群组](https://t.me/+CLhpemKhaC8wZGIx)
+![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
 
 ## License
 GNU Affero General Public License v3.0
